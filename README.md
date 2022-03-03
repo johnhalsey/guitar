@@ -1,4 +1,4 @@
 # guitar
 CSS project to draw guitar in a browser
 
-This is another new commit test on branch 1
+This is new commit test on branch 1
