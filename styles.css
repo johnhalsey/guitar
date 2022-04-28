@@ -12,8 +12,8 @@ body{
     justify-content: center;
 }
 .background .guitar{
-    width: 1000px;
-    height: 300px;
+    width: 1100px;
+    height: 388px;
     border: 1px solid red;
     position: relative;
     display: flex;
@@ -100,7 +100,7 @@ body{
 }
 .background .guitar .head-neck{
     height: 80px;
-    width: 550px;
+    width: 660px;
     border: 1px solid orange;
     right: 0;
     position: absolute;
@@ -109,12 +109,13 @@ body{
     justify-content: end;
 }
 .background .guitar .head-neck .neck{
-    width: 440px;
-    height: 50px;
-    border: 1px solid black;
+    width: 490px;
+    height: 60px;
+    /*border: 1px solid black;*/
+	background: #7c5959;
 }
 .background .guitar .head-neck .head{
     height: 80px;
-    width: 110px;
+    width: 170px;
     border: 1px solid green;
 }
