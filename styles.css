@@ -48,7 +48,8 @@ body{
     width: 490px;
     height: 60px;
     /*border: 1px solid black;*/
-	background: #7c5959;
+    //background: #7c5959;
+    //background: yellow;
 }
 .background .guitar .head-neck .head{
     height: 80px;
